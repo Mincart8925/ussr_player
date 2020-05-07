@@ -1,4 +1,4 @@
-var x = null
+var x = null;
 function play_ussr(){
     x = document.querySelector('audio');
     x.volume = 0.5;
