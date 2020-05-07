@@ -1,0 +1,17 @@
+body {
+    background-color: #FF0000;
+    margin: 25px;
+}
+
+.ussr_main{
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.ussr {
+    /*display: block;-*/
+    
+    width: 195px;
+    height: 244px;
+}
+
